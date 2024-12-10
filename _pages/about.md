@@ -27,10 +27,12 @@ Additionally, I have a strong interest in developing OpenGL-based 3D graphics to
 ## Education
 
 **Integrated Ph.D. in Computer science and Engineering (2022.08 - Present)**
+
 School of Software, Soongsil University
 
 
 **B.S. in Computer science and Engineering (2018.03 - 2022.08)**
+
 School of Software, Soongsil University
 
 <!--
