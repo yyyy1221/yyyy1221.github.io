@@ -44,7 +44,9 @@
 - title: Academic Service
   type: nested_list
   contents:
-    - title: Reviewer of IEEE Journal of Biomedical and Health Informatics
+    - title: Reviewer
+    items:
+        - IEEE Journal of Biomedical and Health Informatics
 
 
 
