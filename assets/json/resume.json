@@ -1,4 +1,6 @@
 {
+  "_comment": "comment",
+{
   "basics": {
     "name": "Albert Einstein",
     "label": "Scientist",
@@ -197,4 +199,5 @@
       "url": "https://example.com"
     }
   ]
+}
 }
