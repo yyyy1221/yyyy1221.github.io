@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 ---
 I'm a Ph.D. student at the [Vision and Machine Learning Lab](https://sites.google.com/view/vmllab) under the supervision of professor Minyoung Chung.
 
-I am interested in the `Explainability and Interpretability of AI`, `Robust AI`, and AI Applications in Vision-based Domains. Specifically, my research focuses on AI methodologies for `medical imaging`, including modalities such as CT, MRI, and X-ray, with a particular emphasis on Deformable Image Registration (DIR). 
+I am interested in the `Explainability and Interpretability of AI`, `Robust AI`, and `Medical AI`. Specifically, my research focuses on AI methodologies for medical imaging, including modalities such as CT, MRI, and X-ray, with a particular emphasis on Deformable Image Registration (DIR). 
 
 Additionally, I have a strong interest in developing OpenGL-based 3D graphics to effectively visualize the outcomes of medical imaging AI systems.
 
