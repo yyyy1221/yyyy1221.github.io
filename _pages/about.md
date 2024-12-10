@@ -23,6 +23,13 @@ I am interested in the `Explainability and Interpretability of AI`, `Robust AI`,
 
 Additionally, I have a strong interest in developing OpenGL-based 3D graphics to effectively visualize the outcomes of medical imaging AI systems.
 
+
+## Education
+**Integrated M.S./Ph.D. in Computer science and Engineering (2022.08 - Present)**
+School of Software, Soongsil University
+**B.S. in Computer science and Engineering (2018.03 - 2022.08)**
+School of Software, Soongsil University
+
 <!--
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
