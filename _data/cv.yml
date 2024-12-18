@@ -13,7 +13,7 @@
   contents:
     - title: Integrated PhD student
       institution: Soongsil University
-      year: Sep 2022 - Present
+      year: 2022 - Present
       description:
         - Computer Science and Engineering
       #   - Description 2.
@@ -23,7 +23,7 @@
       #       - Sub-description 2.
     - title: B.S.
       institution: Soongsil University
-      year: Mar 2018 - Aug 2022
+      year: 2018 - 2022
       description:
         - Computer Science and Engineering
 
